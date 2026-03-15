@@ -1,11 +1,11 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# 1-Bit Full Adder with Carry
+# Full Adder with Carry
 
 A digital 1-bit full adder circuit designed for Tiny Tapeout. This project implements binary addition using basic logic gates, suitable for educational purposes and as a building block for larger arithmetic circuits.
 
 - [View project documentation](docs/info.md)
-- [View Wokwi project](https://wokwi.com/projects/your-wokwi-id) (Replace with your actual Wokwi ID)
+- [View Wokwi project](https://wokwi.com/projects/your-wokwi-id) 
 
 ## 📋 Overview
 
@@ -142,11 +142,6 @@ This project is designed for Tiny Tapeout. The GitHub action automatically:
 - Microprocessor design
 - Educational tool for binary arithmetic
 
-## 🎯 Next Steps
-
-- [Submit your design to the next shuttle](https://app.tinytapeout.com/)
-- Test your design with the FPGA workflow
-- Share your project:
 
   | Platform | Link/Tag |
   |----------|----------|
@@ -154,10 +149,6 @@ This project is designed for Tiny Tapeout. The GitHub action automatically:
   | Mastodon | [#tinytapeout](https://chaos.social/tags/tinytapeout) [@matthewvenn](https://chaos.social/@matthewvenn) |
   | X (Twitter) | [#tinytapeout](https://twitter.com/hashtag/tinytapeout) [@tinytapeout](https://twitter.com/tinytapeout) |
   | Bluesky | [@tinytapeout.com](https://bsky.app/profile/tinytapeout.com) |
-
-## 📝 License
-
-This project is open source hardware/software.
 
 ## 🙏 Acknowledgments
 
